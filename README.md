@@ -1,0 +1,1 @@
+QuantaCash is a web application that helps you manage your finances by tracking your expenses. Log your spending, categorize expenses, set budget limits, and generate reports to gain insights into your financial habits. Built with PHP and MySQL, this app offers a user-friendly interface for effective financial management.
